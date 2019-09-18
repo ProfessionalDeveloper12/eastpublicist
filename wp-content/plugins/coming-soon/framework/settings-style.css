@@ -1,0 +1,658 @@
+/* This is place for css you need to execute on the settings page. This file will only load on the menu pages you've define in the config file. */
+.seed-csp4 .seed_csp4-version{
+	font-size:10px;
+}
+
+.seed-csp4 .mceLayout{
+	background-color:#fff;
+}
+
+#seed_csp4_header{
+
+/* 	
+	background: #ca3058;
+    background: -moz-linear-gradient(-45deg,#ca3058 0%,#ff9a4b 100%);
+    background: -webkit-linear-gradient(-45deg,#ca3058 0%,#ff9a4b 100%);
+    background: linear-gradient(135deg,#ca3058 0%,#ff9a4b 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ca3058',endColorstr='#ff9a4b',GradientType=1 ); */
+		
+		
+		padding:20px 20px 0 20px;
+		margin-left:-19px;
+		position: relative;
+		border-bottom: 1px solid rgba(211, 63, 98, 0);
+	}
+	
+	#seed_csp4_header h1{
+		padding:0;
+		margin:0;
+	
+	}
+	
+	#seed_csp4_header_bg{
+		position: absolute;
+		right: 60px;
+		bottom: 54px;
+		color: #fff;
+		font-size: 84px;
+		opacity: 0.5;
+		display:none;
+	
+	}
+
+	.toplevel_page_seed_csp4 #wpcontent{
+		padding-left: 19px;
+	}
+
+	.toplevel_page_seed_csp4 .wrap{
+		margin:0px;
+	}
+
+	.seed-wrap {
+		margin: 10px 20px 0 2px;
+	}
+
+	/* .nav-tab-wrapper, .wrap h2.nav-tab-wrapper, h1.nav-tab-wrapper{
+		border-bottom:none;
+	}
+
+	.nav-tab {
+		float: left;
+		border: 1px solid rgba(255, 255, 255, 0.41);
+		border-bottom: none;
+		margin-left: .5em;
+		padding: 5px 10px;
+		font-size: 14px;
+		line-height: 24px;
+		background: #ffffff00;
+		color: #fff;
+	} */
+
+	/* .nav-tab-active{
+		border-bottom: 1px solid #f1f1f1;
+		background: #f1f1f1;
+		color: #000;
+	}
+
+	.nav-tab-wrapper, .wrap h2.nav-tab-wrapper, h1.nav-tab-wrapper{
+		margin-bottom: -1px;
+	} */
+
+	.wp-core-ui .button-primary {
+		background: #04be5b;
+		border-color:rgba(0,0,0,.1);
+		box-shadow: 0 1px 0 #ccc;
+		color: #fff;
+		text-decoration: none;
+		text-shadow: 0 -1px 1px #04be5b, 1px 0 1px #04be5b, 0 1px 1px #04be5b, -1px 0 1px #04be5b;
+	}
+
+	.wp-core-ui .button-primary.focus, .wp-core-ui .button-primary.hover, .wp-core-ui .button-primary:focus, .wp-core-ui .button-primary:hover {
+		background: #01c96d;
+		border-color: rgba(255,255,255,.1);
+		color: #fff;
+	}
+
+	.wp-core-ui .button-primary.active, .wp-core-ui .button-primary.active:focus, .wp-core-ui .button-primary.active:hover, .wp-core-ui .button-primary:active {
+		background: #01c96d;
+		border-color: rgba(255,255,255,.1);
+		box-shadow: inset 0 2px 0 #04be5b;
+		vertical-align: top;
+	}
+
+	#stockimages-popup {
+		position: relative;
+		background: #FFF;
+		padding: 20px;
+		width: auto;
+		margin: 20px auto;
+		text-align:center;
+	  }
+
+	#stockimages-popup .grid {
+		margin:auto;
+	}
+
+	#stockimages-popup h1 {
+		font-size:32px;
+		margin-bottom:20px
+	  }
+
+
+	#themes-popup {
+		position: relative;
+		background: #FFF;
+		padding: 20px;
+		width: auto;
+		margin-top:20px;
+	  }
+
+	  #themes-popup h1 {
+		font-size:32px;
+		margin-bottom:20px
+	  }
+
+	  #themes-popup .themes-grid {
+	  display: flex;
+	  align-items: center;
+	  justify-content: center;
+	  flex-wrap: wrap;
+	  text-align: center;
+	  }
+	  
+	#themes-popup .theme-grid-item{
+	padding-right:3px
+	}
+	
+	#themes-popup .theme-grid-item img{
+	width:250px;
+	}
+
+	#seed-csp4-themes-preview{
+		position: relative;
+	}
+
+	#seed_csp4_section_themes th{
+		display: none;
+	}
+
+	#seed-csp4-themes-preview-gradient{
+		position: absolute;
+		top:0;
+		right:0;
+		width:70px;
+		height: 100%;
+		z-index: 2;
+		/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,ffffff+78&0+0,1+78 */
+background: -moz-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 78%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 78%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 78%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 */
+	}
+
+	.seed-csp4-themes-preview-item img{
+		width:200px;
+	}
+
+	.seed-csp4-themes-preview-grid{
+		white-space: nowrap;
+		
+	}
+
+	.seed-csp4-themes-preview-item {
+		display: inline-block;
+		position: relative;
+	}
+
+	#seed_csp4_section_themes .inside{
+		overflow: hidden;
+	}
+	
+	.mfp-wrap{
+		z-index: 999999 !important;
+	}
+
+	.mfp-bg{
+		z-index: 999999 !important;
+	}
+
+	#seed_csp4_section_themes input[type="submit"], #seed_csp4_section_license input[type="submit"] {
+		display:none;
+	}
+
+	.seed-ribbon {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		z-index: 1;
+		overflow: hidden;
+		width: 75px;
+		height: 75px;
+		text-align: left;
+	}
+
+	.seed-ribbon span {
+		font-size: 10px;
+		font-weight: 700;
+		color: #fff;
+		text-transform: uppercase;
+		text-align: center;
+		line-height: 20px;
+		transform: rotate(-45deg);
+		width: 100px;
+		display: block;
+		background: #79a70a;
+		background: linear-gradient(#ff9c41 0%,#ff9c41 100%);
+		box-shadow: 0 3px 10px -5px #000;
+		position: absolute;
+		top: 19px;
+		left: -21px;
+	}
+
+
+	#stockimages-popup .pagination {
+		display: inline-block;
+		padding-left: 0;
+		margin: 20px 0;
+		border-radius: 4px;
+	}
+
+	#stockimages-popup .pagination>li {
+		display: inline;
+	}
+
+	#stockimages-popup .pagination>li:first-child>a, #stockimages-popup .pagination>li:first-child>span {
+		margin-left: 0;
+	}
+
+	#stockimages-popup .pagination>li>a, #stockimages-popup .pagination>li>span {
+		position: relative;
+		float: left;
+		padding: 6px 9px;
+		margin-left: -1px;
+		line-height: 1.42857143;
+		color: #04be5b;
+		text-decoration: none;
+		background-color: #fff;
+		border: 1px solid #ddd;
+	}
+
+	#stockimages-popup #cspv5_background_search input[type="text"] {
+		height:28px
+	}
+
+	#cspv5_background_search{
+		font-size:10px
+	}
+
+	#stockimages-popup .pagination>.active>a, #stockimages-popup .pagination>.active>a:focus, #stockimages-popup .pagination>.active>a:hover, #stockimages-popup .pagination>.active>span, #stockimages-popup .pagination>.active>span:focus, #stockimages-popup .pagination>.active>span:hover {
+		z-index: 2;
+		color: #fff;
+		cursor: default;
+		background-color: #04be5b;
+		border-color: #04be5b;
+	}
+
+	#stockimages-popup .pagination>li>a:focus,#stockimages-popup .pagination>li>a:hover,#stockimages-popup .pagination>li>span:focus, #stockimages-popup .pagination>li>span:hover {
+		z-index: 3;
+		color: #04be5b;
+		background-color: #eee;
+		border-color: #ddd;
+	}
+
+	.seed-subscribers-wrapper{
+		position: relative;
+	}
+
+	.seed-subscribers{
+		-webkit-filter: blur(3px);
+		-moz-filter: blur(3px);
+		-ms-filter: blur(3px);
+		-o-filter: blur(3px);
+		filter: blur(3px);
+	}
+
+	.seedprod-modal {
+		text-align: center;
+		width: 730px;
+		box-shadow: 0 0 60px 30px rgba(0, 0, 0, 0.15);
+		border-radius: 3px;
+		position: absolute;
+		top: 75px;
+		left: 50%;
+		margin: 0 auto 0 -365px;
+		z-index: 100;
+	}
+
+	.seedprod-modal-content {
+		background-color: #fff;
+		border-radius: 3px 3px 0 0;
+		padding: 40px;
+	}
+
+	.seedprod-modal h2 {
+		font-size: 20px;
+		margin: 0 0 16px 0;
+		padding: 0;
+	}
+
+	.seedprod-modal p {
+		font-size: 16px;
+		color: #666;
+		margin: 0 0 30px 0;
+		padding: 0;
+	}
+	.seedprod-modal-button {
+		border-radius: 0 0 3px 3px;
+		padding: 30px;
+		background: #f5f5f5;
+		text-align: center;
+	}
+
+
+	.seedprod-modal ul {
+		float: left;
+		width: 45%;
+		margin: 0;
+		padding: 0 0 0 30px;
+		text-align: left;
+	}
+
+	.seedprod-modal .button-primary{
+		padding:18px 28px;
+		font-size: 18px;
+		height: auto;
+	} 
+
+	.seedprod-modal li {
+		color: #666;
+		font-size: 16px;
+		padding: 6px 0;
+	}
+
+	.seedprod-modal li .fa {
+		color: #2a9b39;
+		margin: 0 8px 0 0;
+	}
+
+	.seedprod-modal h2 {
+		font-size: 20px !important;
+		margin: 0 0 16px 0 !important;
+		padding: 0 !important;
+	}
+
+	.seed-csp4-clear:after {
+		clear: both;
+		content: " ";
+		display: table;
+	}
+
+	.seed-csp4 .discount-note {
+    font-style: italic;
+    color: #666;
+	}
+
+	.seed-csp4 .discount-note strong {
+		color: green;
+	}
+
+	/* AddOns Page */
+	#seed-csp4-admin-addons *, #seed-csp4-admin-addons *::before, #seed-csp4-admin-addons *::after {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+
+	#seed-csp4-admin-addons .addons-container {
+		margin-left: -20px;
+		margin-right: -20px;
+	}
+
+	#seed-csp4-admin-addons .addon-container {
+		padding: 0 20px;
+		float: left;
+		width: 33.333333%;
+	}
+
+	#seed-csp4-admin-addons .addon-item {
+		background-color: #fff;
+		border: 1px solid #ddd;
+		border-radius: 3px;
+		margin: 0 0 40px 0;
+	}
+
+	#seed-csp4-admin-addons .addon-item .details {
+		padding: 30px 20px;
+	}
+
+	#seed-csp4-admin-addons .addon-item img {
+		border: 1px solid #eee;
+		float: left;
+		max-width: 75px;
+	}
+
+	#seed-csp4-admin-addons .addon-item h5 {
+		margin: 0 0 10px 100px;
+		font-size: 16px;
+	}
+
+	#seed-csp4-admin-addons .addon-item p {
+		margin: 0 0 0 100px;
+	}
+
+	#seed-csp4-admin-addons .addon-item .actions {
+		background-color: #f7f7f7;
+		border-top: 1px solid #ddd;
+		padding: 20px;
+		position: relative;
+	}
+
+	#seed-csp4-admin-addons .addon-item .upgrade-button {
+		text-align: center;
+	}
+
+	#seed-csp4-admin-addons .addon-item .upgrade-button a {
+		font-weight: 600;
+		width: 140px;
+		text-align: center;
+		padding: 8px 5px;
+	}
+
+	#seed-csp4-admin-addons .seed-csp4-btn-light-grey {
+		background-color: #f5f5f5;
+		border: 1px solid #ccc !important;
+		color: #666;
+	}
+
+	#seed-csp4-admin-addons .seed-csp4-btn-light-grey:hover {
+		background-color: #04be5b !important;
+		color: #fff !important;
+	}
+
+	
+
+	#seed-csp4-admin-addons .seed-csp4-btn {
+		border: 0;
+		border-radius: 3px;
+		cursor: pointer;
+		display: inline-block;
+		margin: 0;
+		text-decoration: none;
+		text-align: center;
+		vertical-align: middle;
+		white-space: nowrap;
+		box-shadow: none;
+	}
+
+
+
+	.theme-grid-item {
+		position: relative;
+	}
+	
+	.theme-grid-item img {
+	  opacity: 1;
+	  display: block;
+	  width: 100%;
+	  height: auto;
+	  transition: .5s ease;
+	  backface-visibility: hidden;
+	}
+	
+	.theme-grid-item .seed-csp4-middle {
+	  transition: .5s ease;
+	  opacity: 0;
+	  position: absolute;
+	  top: 40%;
+	  left: 50%;
+	  transform: translate(-50%, -50%);
+	  -ms-transform: translate(-50%, -50%);
+	  text-align: center;
+	}
+	
+	.theme-grid-item:hover img {
+	  opacity: 0.3;
+	}
+	
+	.theme-grid-item:hover .seed-csp4-middle {
+	  opacity: 1;
+	}
+	
+	.theme-grid-item .seed-csp4-text {
+	  background-color: #04be5b;
+	  color: white;
+	  font-size: 16px;
+	  padding: 16px 32px;
+	  border-radius:4px;
+	  cursor: pointer;
+	}
+
+
+
+
+	#stockimages-popup .grid-item {
+		position: relative;
+	}
+	
+	#stockimages-popup .grid-item img {
+	  opacity: 1;
+	  transition: .5s ease;
+	  backface-visibility: hidden;
+	  /* width: 100%;
+	  height: auto;
+ */
+	}
+	
+	#stockimages-popup .grid-item .seed-csp4-middle {
+	  transition: .5s ease;
+	  opacity: 0;
+	  position: absolute;
+	  top: 50%;
+	  left: 50%;
+	  transform: translate(-50%, -50%);
+	  -ms-transform: translate(-50%, -50%);
+	  text-align: center;
+	}
+	
+	#stockimages-popup .grid-item:hover img {
+	  opacity: 0.3;
+	}
+	
+	#stockimages-popup .grid-item:hover .seed-csp4-middle {
+	  opacity: 1;
+	}
+	
+	#stockimages-popup .grid-item .seed-csp4-text {
+	  background-color: #04be5b;
+	  color: white;
+	  font-size: 16px;
+	  padding: 16px 32px;
+	  border-radius:4px;
+	  cursor: pointer;
+	} 
+
+
+	.exit-popup {
+		position: relative;
+		background: #FFF;
+		padding: 20px;
+		width: auto;
+		max-width: 500px;
+		margin: 20px auto;
+	  }
+
+	#cexit-popup{
+		text-align:center;
+	}
+
+	#cexit-popup p{
+		font-size:16px
+	}
+
+	.seed-csp4-addon-icon{
+		float:left;
+		background:#01c96d;
+		padding:9px 3px;
+		border-radius:4px;
+	}
+
+	.seed-csp4-addon-icon-1{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d43362+0,ffa448+100 */
+	background: #d43362; /* Old browsers */
+	background: -moz-linear-gradient(-45deg, #d43362 0%, #ffa448 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg, #d43362 0%,#ffa448 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg, #d43362 0%,#ffa448 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d43362', endColorstr='#ffa448',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	}
+
+	.seed-csp4-addon-icon-2{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffa448+0,ffdd00+100 */
+background: #ffa448; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #ffa448 0%, #ffdd00 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #ffa448 0%,#ffdd00 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #ffa448 0%,#ffdd00 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffa448', endColorstr='#ffdd00',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	}
+
+	.seed-csp4-addon-icon-3{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffdd00+0,1bdf68+100 */
+background: #ffdd00; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #ffdd00 0%, #1bdf68 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #ffdd00 0%,#1bdf68 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #ffdd00 0%,#1bdf68 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffdd00', endColorstr='#1bdf68',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	}
+
+	.seed-csp4-addon-icon-4{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1bdf68+0,0000e0+100 */
+background: #1bdf68; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #1bdf68 0%, #0000e0 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #1bdf68 0%,#0000e0 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #1bdf68 0%,#0000e0 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1bdf68', endColorstr='#0000e0',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	}
+
+	.seed-csp4-addon-icon-5{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0000e0+0,ab2fdd+100 */
+background: #0000e0; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #0000e0 0%, #ab2fdd 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #0000e0 0%,#ab2fdd 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #0000e0 0%,#ab2fdd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0000e0', endColorstr='#ab2fdd',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	}
+
+	.seed-csp4-addon-icon-6{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ab2fdd+0,de4866+100 */
+background: #ab2fdd; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #ab2fdd 0%, #de4866 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #ab2fdd 0%,#de4866 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #ab2fdd 0%,#de4866 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ab2fdd', endColorstr='#de4866',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	}
+
+	.seed-csp4-addon-icon-7{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#de4866+0,038dd9+100 */
+background: #de4866; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #de4866 0%, #038dd9 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #de4866 0%,#038dd9 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #de4866 0%,#038dd9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de4866', endColorstr='#038dd9',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	}
+
+	.seed-csp4-addon-icon-8{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#038dd9+0,ffdd00+100 */
+background: #038dd9; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #038dd9 0%, #ffdd00 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #038dd9 0%,#ffdd00 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #038dd9 0%,#ffdd00 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#038dd9', endColorstr='#ffdd00',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	}
+
+	.seed-csp4-addon-icon-9{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffdd00+0,ffdd00+0,d43362+100 */
+background: #ffdd00; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #ffdd00 0%, #ffdd00 0%, #d43362 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #ffdd00 0%,#ffdd00 0%,#d43362 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #ffdd00 0%,#ffdd00 0%,#d43362 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffdd00', endColorstr='#d43362',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	}

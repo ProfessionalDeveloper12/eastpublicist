@@ -1,0 +1,15 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1"></custom-type>
+	</custom-types>
+	<custom-fields>
+        <custom-field action="copy"></custom-field>
+    </custom-fields>
+    <admin-texts>	
+        <key name="publicist_option">
+			<key name="opt_footer_text" />
+        </key>
+        <key name="publicist_option" />
+		<key name="blogname" />
+    </admin-texts>
+</wpml-config>

@@ -1,0 +1,46 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Publicist v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-10 15:10+0530\n"
+"PO-Revision-Date: 2019-01-10 15:10+0530\n"
+"Last-Translator: admin <onistaweb@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ publicist
+#: 404.php:11
+msgid "404"
+msgstr ""
+
+# @ publicist
+#: 404.php:16
+msgid "The page You are searching was not found"
+msgstr ""
+
+# @ publicist
+#: archive.php:31
+msgid "Previous"
+msgstr ""
+
+# @ publicist
+#: archive.php:32
+msgid "Next"
+msgstr ""
+
+# @ publicist
+#: archive.php:33
+msgid "Page"
+msgstr ""

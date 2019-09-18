@@ -1,0 +1,2343 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: kingcomposer/shortcodes/kc_post_type_list.php:95
+msgid ", "
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1364
+msgid "--Select an animate--"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:255
+msgid "A brief description will appear when you hover the function icon"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:3
+msgid "Access Denied!"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.installed.tmpl.php:113
+msgid "Activate"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:400
+msgid "Active All Page (Global Settings)"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:373
+msgid "Active This Page"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:402
+msgid "Active optimization for all pages built with KingComposer. You can active or deactive for each specific page"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.pro.php:73
+msgid "Active the KC Pro! now"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:12
+#: kingcomposer/includes/kc.templates.php:1181
+msgid "Add"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1266
+msgid "Add Element"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+#: kingcomposer/includes/kc.templates.php:1124
+#: kingcomposer/includes/kc.templates.php:1198
+msgid "Add Elements"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.screen.tmpl.php:31
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Add New"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.installed.tmpl.php:80
+msgid "Add New Extension"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1505
+#: kingcomposer/includes/kc.templates.php:1566
+msgid "Add Node"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:74
+msgid "Add a 2-column row"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:80
+msgid "Add a 3-column row"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:87
+msgid "Add a 4-column row"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:69
+msgid "Add an 1-column row"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1110
+msgid "Add element"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1250
+msgid "Add elements"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1131
+msgid "Add elements to bottom of this column"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1239
+msgid "Add more color"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:975
+msgid "Add new Group"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:56
+msgid "Add new element or row/column layout"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:564
+msgid "Add new section"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:44
+msgid "Add new shortcode map"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:260
+msgid "Add your custom CSS code to modify or apply additional styling to the Front-End"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1019
+msgid "Add your link"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:254
+msgid "Admin label"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1212
+msgid "Advanced"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:417
+msgid "Advanced Optimization"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:939
+msgid "Advanced setting borders"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:14
+msgid "After"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:677
+msgid "After submitting, we will review before publishing. We only accept which design has been built on our CSS system and does not require external CSS. Then KC Users can install them everywhere."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:738
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:621
+msgid "All Taxonomies"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1358
+msgid "Animate preview"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Are you sure that you want to clear all cache? It includes static cache html files, combined css, combined js. \\n\\nThey will be recreated with new fresh data.\\n\\n"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:20
+msgid "Are you sure?"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Are you sure? All sections of this profile will also be deleted."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Are you sure? Once it is deleted, you can not able to restore."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Are you sure? You did not upload screenshot."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Attribute Name"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1186
+msgid "BG Image"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1191
+msgid "BG Overlay & Gradient"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1189
+msgid "BG attachment"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1188
+msgid "BG position"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1187
+msgid "BG repeat"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1190
+msgid "BG size"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1185
+msgid "Background Color"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1222
+msgid "Background image, gradient"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+#: kingcomposer/includes/kc.templates.php:197
+msgid "Beautifier"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:13
+msgid "Before"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:166
+msgid "Besides page and post above, you can set any content type to be available with KingComposer such as gallery, contact form and so on"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/shortcodes/kc_blog_posts.php:375
+msgid "Blog Post: Nothing not found."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:173
+msgid "Body Class"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:16
+msgid "Bottom"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Box Style"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:552
+msgid "Browse Image"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:599
+msgid "Browse Images"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:503
+msgid "Browse Media"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:65
+msgid "Browse all elements"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.store.tmpl.php:48
+#: kingcomposer/includes/extensions/kc.installed.tmpl.php:134
+msgid "By"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:664
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "CSS Code"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:18
+#: kingcomposer/includes/kc.mapper.php:94
+#: kingcomposer/includes/kc.mapper.php:141
+#: kingcomposer/includes/kc.templates.php:664
+msgid "Cancel"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1307
+msgid "Cancel & close popup"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+#: kingcomposer/includes/kc.mapper.php:75
+msgid "Category"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:59
+msgid "Changelogs"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:98
+#: kingcomposer/includes/kc.mapper.php:268
+msgid "Check docs"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:887
+msgid "Check the preset document"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:318
+msgid "Children fields"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Choose Images"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:29
+msgid "Classic Mode"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:350
+msgid "Clear Cache"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Clear Style"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:788
+msgid "Click & hold the input, then move up or move down to change value"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:142
+msgid "Click to select, drag to move"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:780
+msgid "Clipboard"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:500
+msgid "Clone"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:843
+msgid "Close Presets"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1300
+msgid "Collapse popup"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1415
+msgid "Column"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:585
+#: kingcomposer/includes/kc.templates.php:1418
+#: kingcomposer/includes/kc.templates.php:1421
+#: kingcomposer/includes/kc.templates.php:1426
+#: kingcomposer/includes/kc.templates.php:1429
+#: kingcomposer/includes/kc.templates.php:1432
+#: kingcomposer/includes/kc.templates.php:1507
+msgid "Columns"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:359
+msgid "Combined css internal & external resources"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:358
+msgid "Combined js internal & external resources"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:362
+msgid "Compression and gzip for page speed"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.widgets.php:147
+msgid "Content Filters"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:38
+msgid "Content Settings"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:599
+msgid "Content Type"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:7
+#: kingcomposer/includes/kc.templates.php:1165
+msgid "Copy"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1409
+msgid "Copy content in the last column to the newly-created column. This option is available when you choose to set the column amount greater than the current column amount"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Copy row successful"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Copy style only"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Copy style successful"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Copy successful"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1049
+msgid "Copy this row"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Could not find mapping for this element."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:844
+msgid "Create new element preset based on the current settings"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:842
+msgid "Create new preset"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:252
+#: kingcomposer/includes/kc.templates.php:195
+msgid "Css Code"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:451
+msgid "Custom"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1243
+msgid "Custom degrees"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1168
+msgid "Cut"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Cut successful"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.installed.tmpl.php:118
+msgid "Deactivate"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:250
+msgid "Default value"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1446
+msgid "Delay"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:9
+#: kingcomposer/includes/kc.mapper.php:95
+#: kingcomposer/includes/kc.templates.php:1171
+#: kingcomposer/includes/kc.templates.php:1287
+#: kingcomposer/includes/extensions/kc.installed.tmpl.php:123
+msgid "Delete"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1113
+msgid "Delete column"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:878
+msgid "Delete preset"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:527
+msgid "Delete section"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:118
+msgid "Delete selected"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1257
+msgid "Delete this element"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1591
+msgid "Delete this group"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:569
+#: kingcomposer/includes/kc.param.types.php:599
+#: kingcomposer/includes/kc.param.types.php:1258
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Delete this image"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:500
+msgid "Delete this mdia"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1023
+msgid "Delete this row"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:948
+msgid "Delete this section"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:79
+#: kingcomposer/includes/kc.mapper.php:288
+#: kingcomposer/includes/extensions/kc.installed.tmpl.php:67
+#: kingcomposer/includes/extensions/kc.installed.tmpl.php:162
+msgid "Description"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.pro.php:41
+msgid "Directly download kc-pro.zip"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:237
+msgid "Disable Animate"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:245
+msgid "Disable animate to prevent loading resources and effects"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1607
+msgid "Display WordPress sidebar"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/includes/kc.widgets.php:1
+msgid "Display content is built by KingComposer Page Builder"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:570
+msgid "Display settings"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:487
+msgid "Do not support saving to prebuilt template, please chose another content types."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:115
+msgid "Document"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:10
+#: kingcomposer/includes/kc.templates.php:1162
+#: kingcomposer/includes/kc.templates.php:1281
+#: kingcomposer/includes/kc.templates.php:1501
+msgid "Double"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1104
+msgid "Double column"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1408
+msgid "Double content"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1245
+msgid "Double this element"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1595
+msgid "Double this group"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1031
+msgid "Double this row"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1202
+msgid "Double this section"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:113
+msgid "Download File"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:114
+msgid "Drag and drop to arrange items, click to select an item. Read more"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1153
+msgid "Drag and drop to arrange this element"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1035
+msgid "Drag and drop to arrange this row"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:955
+msgid "Drag and drop to arrange this section"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:593
+msgid "Drag image to sort"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1237
+msgid "Drag to move this element"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/shortcodes/kc_dropcaps.php:1
+msgid "Dropcap: Text not found"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:6
+#: kingcomposer/includes/kc.templates.php:1159
+#: kingcomposer/includes/kc.templates.php:1284
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:521
+msgid "Edit section"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1241
+msgid "Edit this element"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.widgets.php:215
+msgid "Edit widget"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1493
+msgid "Edit with Editor"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.actions.php:445
+msgid "Edit with KingComposer"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:219
+msgid "Editor Error: This field type requires name is \"content\", you set the name is "
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:195
+msgid "Editor Error: This field type requires shortcode type is_container, Plese read our document carefully"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1362
+msgid "Effect"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:64
+msgid "Elements"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:345
+msgid "Enable Optimized"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:419
+msgid "Enable advanced optimization such as gzip, browser caching (required changes .htaccess)"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:111
+msgid "Enter file name"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:46
+msgid "Enter shortcode name or full shortcode string"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:127
+msgid "Enter your maps here"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1147
+msgid "Enter your word"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Error infinte loop: Can not include itself"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Error! Data structure has been broken."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Error, can not paste row`s copied here"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Error, you have to copy first"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Error:Post ID not found."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Error:Post type not found."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:49
+msgid "Example"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1447
+msgid "Example: 200"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:34
+msgid "Expand / Collapse Builder"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1041
+msgid "Expand / Collapse this row"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:989
+msgid "Expand / Collapse this section"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:104
+msgid "Export"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:108
+msgid "Export shortcodes mapper"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:786
+#: kingcomposer/includes/extensions/kc.installed.tmpl.php:66
+#: kingcomposer/includes/extensions/kc.installed.tmpl.php:161
+msgid "Extensions"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:172
+msgid "Field type"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "File type must be .kc"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1346
+#: kingcomposer/includes/kc.fonts.php:26
+msgid "Fonts Manager"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:191
+msgid "Fonts using"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/shortcodes/kc_video_play.php:68
+msgid "For best perfomance, the video map has been disabled in this editing mode."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1411
+msgid "For example: Currently there are 2 columns and you are going to set 1 column"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1409
+msgid "For example: Currently there is 1 column and you are going to set 2 columns"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:385
+msgid "Force Active"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:388
+msgid "Force Deactive"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:375
+msgid "Force to active or deactive from global settings"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:48
+#: kingcomposer/includes/kc.actions.php:393
+msgid "General Settings"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1008
+msgid "Go to edit this section"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:561
+msgid "Go to sections list"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:661
+msgid "HTML Code"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:171
+msgid "Heading of param"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1303
+msgid "Help"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Hit Enter to save, ESC to cancel."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.live.builder.php:43
+msgid "How responsive works?"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:675
+msgid "How to be accepted?"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:314
+msgid "If you don\\'t have an account yet"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:169
+msgid "If your"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:282
+msgid "Image url"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/shortcodes/live_editor/kc_image_fadein.php:83
+msgid "Images Fadein Gallery: No images found"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/shortcodes/kc_image_fadein.php:56
+msgid "Images Gallery: No images found"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:105
+msgid "Import"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:33
+msgid "Import / Export"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:138
+msgid "Import Now"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:126
+msgid "Import shortcodes mapper"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:497
+msgid "Include"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:83
+msgid "Include content into"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:11
+msgid "Insert"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:243
+msgid "Insert Media"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1107
+msgid "Insert new column"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.pro.php:35
+msgid "Install KC Pro! Automatically"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.store.tmpl.php:34
+msgid "Install Now"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.screen.tmpl.php:23
+msgid "Installed"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1359
+msgid "It happens when scroll over"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "KC Box - CSS Code"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "KC Box - HTML Code"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.screen.tmpl.php:15
+msgid "KC Extensions"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "KC HUB Online - Prebuilt Sections/Templates"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:672
+msgid "KC Hub is a free resource, where you can install any preset design template with one click. You can use anyone\\'s design sharing and you can also share your design so that anyone can use them."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:56
+msgid "KC Pro!"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:15
+msgid "KC Shortcode Mapper"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/includes/kc.widgets.php:1
+msgid "KC Widget Content"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1411
+msgid "Keep content"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1411
+msgid "Keep content of the removed column and transfer it to the last existing column"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:208
+msgid "Keep the viewport in a reasonable place while a popup is opened"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:232
+msgid "Keep the web page unmoved while scrolling a popup"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/includes/kc.actions.php:393
+msgid "King Composer WP"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/includes/kc.actions.php:393
+msgid "KingComposer"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:195
+msgid "KingComposer Fonts Manager"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1462
+msgid "KingComposer General Settings"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.pro.php:55
+msgid "Larger video size"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.store.tmpl.php:59
+msgid "Last Updated"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Layouts"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:363
+msgid "Leverage browser caching"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.fonts.php:95
+msgid "List fonts used in your site"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:215
+msgid "List of all external fonts that using in your site. The data is stored in "
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+#: kingcomposer/includes/extensions/kc.store.tmpl.php:39
+msgid "Live Preview"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.fonts.php:80
+msgid "Load Time"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:22
+msgid "Loading"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:17
+msgid "Mapping custom 3rd party shortcodes to add & edit by KingComposer"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:222
+#: kingcomposer/includes/kc.templates.php:184
+msgid "Max width container"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:360
+msgid "Minify HTML, JS, CSS"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:763
+msgid "More"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1155
+msgid "More Actions"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:17
+#: kingcomposer/includes/kc.templates.php:1278
+msgid "Move"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:312
+msgid "My Account"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:71
+msgid "Name"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:97
+msgid "Need help how to display output of shortcode?"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:267
+msgid "Need help how to set default value for field group?"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:28
+msgid "New Shortcode"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:546
+msgid "Next"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/shortcodes/kc_carousel_images.php:1
+msgid "No images upload"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:155
+msgid "No items found, please copy elements first."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "No items selected"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:200
+msgid "Notice: CSS must contain selectors"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:396
+msgid "Notice: The optimization mode  is activated only for not logged in and cart empty (woocommerce)"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/includes/kc.settings.php:85
+msgid "Notice: To avoid conflict, We have disabled the following plugins: "
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Notice:CSS must contain selectors."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Notice:Do not include selectors. Example:"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Notice:The content below is the latest that you copied."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.installed.tmpl.php:78
+msgid "Oops, There are no extension found"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:197
+msgid "Open Fonts Manager"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:286
+msgid "Open Library"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1027
+msgid "Open row settings"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1206
+msgid "Open settings"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:46
+msgid "Optimized and speed up your website"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:276
+msgid "Options"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:19
+msgid "Order"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:506
+msgid "Overwrite"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:134
+msgid "Overwrite shortcode if exists?"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:550
+msgid "Page"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:168
+msgid "Page Settings"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:290
+msgid "Param Description"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:169
+msgid "Param label"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:166
+msgid "Param name"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:54
+msgid "Parse Shortcode"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:8
+msgid "Paste"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:95
+msgid "Paste copied element"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:149
+msgid "Paste now"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Paste style only"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:573
+msgid "Per page"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Please enter the new name"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.fonts.php:96
+msgid "Please remove unused fonts to make your site load faster"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Please save or submit first!"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/shortcodes/kc_blog_posts.php:110
+#: kingcomposer/shortcodes/kc_blog_posts.php:358
+msgid "Posts by "
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.fonts.php:107
+msgid "Powered by Google - Development by KingComposer Team"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:357
+msgid "Pre-render all resources to static files"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:846
+msgid "Preset category"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:845
+msgid "Preset name"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:840
+msgid "Presets"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:49
+msgid "Press Ctrl + S to save"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:246
+msgid "Press shift+enter to break new line"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:361
+msgid "Prevent javascript blocking"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.installed.tmpl.php:141
+msgid "Preview"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:542
+msgid "Previous"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:21
+msgid "Processing"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:52
+msgid "Product License"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:984
+#: kingcomposer/includes/kc.templates.php:997
+msgid "Publish / Unpublish this section"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:503
+msgid "Push In"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:91
+msgid "Push customized content and shortcodes"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Push to selected Section"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Push your content"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:174
+msgid "Put this code on action \"init\" to force support"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/includes/kc.settings.php:85
+msgid "Reactivate plugins"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/shortcodes/live_editor/kc_tooltip.php:83
+#: kingcomposer/shortcodes/kc_tooltip.php:1
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/shortcodes/kc_post_type_list.php:1
+#: kingcomposer/shortcodes/kc_carousel_post.php:1
+#: kingcomposer/shortcodes/kc_flip_box.php:1
+#: kingcomposer/shortcodes/kc_blog_posts.php:126
+#: kingcomposer/shortcodes/live_editor/kc_flip_box.php:74
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/shortcodes/live_editor/kc_team.php:84
+#: kingcomposer/shortcodes/kc_team.php:1
+msgid "Readmore"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:293
+msgid "Relation"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:568
+msgid "Reload"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1208
+#: kingcomposer/includes/kc.templates.php:1489
+msgid "Remove"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:337
+#: kingcomposer/includes/kc.param.types.php:419
+msgid "Remove Selection"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1210
+msgid "Remove this section"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Replace selected Section"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.nocache_templates.php:24
+msgid "Restore deleted items"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/includes/kc.settings.php:293
+msgid "Revoke license"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1255
+msgid "Right click for more options"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Row layouts"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:4
+#: kingcomposer/includes/kc.mapper.php:93
+#: kingcomposer/includes/kc.templates.php:290
+msgid "Save"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:269
+msgid "Save Change"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:42
+msgid "Save all content to section"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1308
+msgid "Save changes (ctrl+s)"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:976
+msgid "Save this row to section"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:565
+msgid "Save to new "
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:5
+msgid "Saving"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:206
+msgid "Scroll Assistant"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:230
+msgid "Scroll Prevention"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.screen.tmpl.php:47
+#: kingcomposer/includes/extensions/kc.screen.tmpl.php:48
+#: kingcomposer/includes/extensions/kc.screen.tmpl.php:50
+msgid "Search Extensions"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Search Results:"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+#: kingcomposer/includes/kc.templates.php:636
+msgid "Search by Name"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.fonts.php:30
+msgid "Search by name"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Search elements by name"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.screen.tmpl.php:45
+msgid "Search plugins by"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:644
+msgid "Section"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:934
+msgid "Section settings"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:99
+msgid "Sections/Templates KC Hub Online"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:103
+msgid "Sections/Templates Library"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:23
+msgid "Security Error: Your session has expired or you are trying to access unauthorized"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.installed.tmpl.php:63
+#: kingcomposer/includes/extensions/kc.installed.tmpl.php:158
+msgid "Select All"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/includes/kc.param.types.php:1486
+msgid "Select Content Type"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:575
+msgid "Select Image"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:619
+msgid "Select Package"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:121
+msgid "Select all"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1011
+msgid "Select another section"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1263
+msgid "Select background image"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:936
+#: kingcomposer/includes/kc.param.types.php:1206
+#: kingcomposer/includes/kc.param.types.php:1235
+msgid "Select color"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1345
+msgid "Select font"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Select one method"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Select parent node"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:246
+msgid "Select type for field"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:286
+msgid "Separate options by enter new line"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1045
+msgid "Set number of columns for this row"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1497
+msgid "Settings"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/shortcodes/kc_blog_posts.php:278
+msgid "Share on Facebook"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/shortcodes/kc_blog_posts.php:298
+msgid "Share on Google+"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/shortcodes/kc_blog_posts.php:309
+msgid "Share on Pinterest"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/shortcodes/kc_blog_posts.php:287
+msgid "Share on Twitter"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:524
+msgid "Share this section to KC Hub"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:669
+msgid "Share your design to KC Hub"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/includes/kc.actions.php:393
+msgid "Shortcode Mapper"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:67
+msgid "Shortcode Tag"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:19
+msgid "Shortcodes need to be installed, or you can do it by following"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:308
+msgid "Show or hide depending on the another field (Note: parent field must be placed above this field)"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:807
+msgid "Show presets of this element"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1150
+msgid "Show up 120 relate posts"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:316
+msgid "Sign Up Now!"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Sorry! No Web Storage support."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.fonts.php:36
+msgid "Sorting"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:648
+msgid "Source"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1450
+msgid "Speed"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.pro.php:28
+msgid "Start your free 7-day trial to discover the Front-End Live Editor with leading professional."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Storage of row in profile."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:920
+msgid "Style"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:661
+msgid "Submit to KC Hub"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Successful"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:136
+msgid "Supported Content Types"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Templates Library"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:249
+msgid "Text"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:39
+msgid "Thank you for using KingComposer page builder. If you need help or have any suggestions, join our community for discussion "
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:130
+msgid "The ClipBoard is empty, Please copy elements to clipboard"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "The File APIs are not fully supported in this browser."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "The changes you made with KingComposer will be lost if you navigate away from this page."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:174
+msgid "The class will be added to body tag on the front-end"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "The data has been updated to live view (ESC to close)"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:230
+msgid "The default of container width is 1170px, you can change it to fit with yours"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:252
+msgid "The default value of field"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:168
+msgid "The id of param"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "The key you entered was not found."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:185
+msgid "The max width of container for this page (default is 1170px). You also can change it in KC general settings"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1365
+msgid "The name of this field is not allowed to use as"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1362
+msgid "The name of this field must be set to \"content\""
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:858
+msgid "The preset has been created successfully"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "The screenshot helps you easily know the contents of section."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:324
+msgid "The theme you are using"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:277
+msgid "The thumbnail for this content, it will display in sections list"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:261
+msgid "The value will show in preview"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:113
+msgid "There is a new version of KC Pro! available"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:96
+msgid "There is a new version of KingComposer available"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:723
+msgid "There was an error with content structure."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.installed.tmpl.php:16
+msgid "There were some errors with the extensions are activated"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "These fields cannot be empty"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:354
+msgid "Things that will be optimized on your website:"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:21
+msgid "This Article"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1411
+msgid "This option is available when you choose to set the column amount smaller than the current column amount"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:275
+msgid "Thumbnail"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:113
+msgid "Tips"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+#: kingcomposer/includes/kc.widgets.php:115
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:254
+msgid "To optimize performance the editor is not activated automatically, Click to active."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:253
+msgid "Tooltips display"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:15
+msgid "Top"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.pro.php:27
+msgid "Try the KC Pro! now"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.widgets.php:195
+msgid "Type least 2 characters"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Undo Delete"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:124
+msgid "Unselect all"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.screen.tmpl.php:39
+msgid "Updates"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:129
+msgid "Upload the maps file to import"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:382
+msgid "Use global settings"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.widgets.php:130
+msgid "Use post title"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:491
+msgid "Use this template"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.store.tmpl.php:65
+msgid "Ver"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:275
+msgid "Verify your license key for KC Pro!"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:339
+msgid "Verify your license now"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:43
+#: kingcomposer/includes/extensions/kc.installed.tmpl.php:133
+msgid "Version"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/shortcodes/kc_post_type_list.php:95
+msgid "View all posts by %s"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/includes/kc.settings.php:97
+#: kingcomposer/includes/kc.settings.php:98
+#: kingcomposer/includes/kc.settings.php:114
+#: kingcomposer/includes/kc.settings.php:115
+msgid "View version %s details"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:248
+msgid "Visual"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:37
+msgid "Welcome to KingComposer Page Builder!"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:670
+msgid "What is KC Hub?"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Whoops, looks like something went wrong."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.widgets.php:223
+msgid "Widget Class"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:775
+msgid "Widgets"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1611
+msgid "WordPress SideBar"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1461
+msgid "You can disable animate via"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:310
+msgid "You can find your license by login to"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.param.types.php:1245
+msgid "You can make background overlay by set only the first color with rgba color"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "You can not add new template to Prebuilt Template, it is static file"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:55
+msgid "You have a blank page"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:884
+msgid "You have not created any preset for this element"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Your ClipBoard is currently empty. Please copy row or element before pasting!"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:656
+msgid "Your Email"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.fonts.php:76
+msgid "Your Fonts"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:282
+msgid "Your License Key"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:652
+msgid "Your Name"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/shortcodes/kc_video_play.php:79
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "Your clipboard is currently empty, please copy elements before pasting."
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "\\nKINGCOMPOSER NOTICE:\\n\\nwe have detected the KingComposer builder being placed in a container is not full-width. This will interfere when you want to stretch the row to full width.\\n\\n Please make sure that the page\\\\\\'s content is placed inside the section with a width equal to 100%.\\n"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "\\nKingComposer Warning: \\n\\nMaximum 10 columns. Could not insert more column.\\n"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "\\nKingComposer Warning: \\n\\nThe content is empty. Are you sure that you want to save the empty content?\\n"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "\\nSomething went wrong with data structure and we can not process your action.\\n"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.js_languages.php:24
+msgid "\\nThe presets name already exists, do you want to overwrite it?\\n"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/shortcodes/kc_blog_posts.php:358
+msgid "by"
+msgstr ""
+
+#. Text in function
+#: kingcomposer/shortcodes/kc_box_alert.php:17
+#: kingcomposer/shortcodes/live_editor/kc_box_alert.php:26
+msgid "close"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:170
+msgid "does not show here? Please make sure that has been registered with parameter "
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/extensions/kc.store.tmpl.php:64
+msgid "downloads"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:1587
+msgid "expand / collapse"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.templates.php:442
+#: kingcomposer/includes/kc.templates.php:462
+msgid "items total"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.mapper.php:50
+msgid "or full string"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:303
+msgid "see"
+msgstr ""
+
+#. Text in echo
+#: kingcomposer/includes/kc.settings.php:100
+#: kingcomposer/includes/kc.settings.php:117
+msgid "update now"
+msgstr ""
